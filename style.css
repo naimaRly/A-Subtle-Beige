@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;   
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+.container {
+max-width:730px;
+ margin: 0 auto;
+ padding: 20px;
+}
+
+
+body{
+    background-color: black;
+}
+
+header{
+    background-color: rgb(80,4,20);
+}
+
+
+header nav li{
+    float: left;
+    margin-right: 50px;
+    padding: 18px 0px 0px;
+}
+
+
+header nav li a{
+    transition: 0.2s;
+}
+
+header nav li a:hover{
+    background-color:#770024 ;
+}
+
+header nav ul{
+    background-color: #88042c;
+    overflow: hidden;
+    margin: 0px;
+    padding: 10px 0;
+    clear: both;
+}
+
+header nav ul,
+.linkler ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    color:#debb73
+
+}
+header p{ 
+    margin: 20px 30px;
+    color:#EEDDB9
+}
+
+a{
+    color:#EAD5A8
+}
+
+h2{
+    color:#6A0020
+}
+main {
+   clear: both;
+    background-color:#e0bc74;
+}
+
+p{
+    margin:20px;
+    line-height: 22px;
+}
+
+.linkler a{
+    color: black;
+}
+
+.linkler ul,
+header p{
+     font-weight: bold;
+}
+
+.linkler li{
+     padding: 10px 0px 0px;
+}
+
+.content{
+    overflow: hidden;
+}
+.esas{
+    float: left;
+    width: 83%;
+    padding-right: 10px;
+}
+
+.linkler{
+    float:right;
+    width: 15%;
+    margin-top: 50px;
+}
+
+footer {
+    font-size: 14px;
+    color: #555; 
+    text-align: center; 
+    clear: both; 
+}
