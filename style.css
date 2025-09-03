@@ -91,10 +91,10 @@ header p{
      padding: 10px 0px 0px;
 }
 
-.content-wrapper{
+.content{
     overflow: hidden;
 }
-.main-content{
+.esas{
     float: left;
     width: 83%;
     padding-right: 10px;
